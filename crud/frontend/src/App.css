@@ -1,0 +1,9 @@
+
+.table tr,th{
+    color: red;
+    background-color: beige;
+}
+
+.table table{
+    background-color: aqua;
+}
